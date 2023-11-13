@@ -14,7 +14,7 @@ const links = [
   },
   {
     lable: 'ServerActions',
-    href: '/server-actions'
+    href: '/server-action'
   }
 ]
 
