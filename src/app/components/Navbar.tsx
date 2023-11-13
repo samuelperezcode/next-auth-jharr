@@ -15,6 +15,10 @@ const links = [
   {
     lable: 'ServerActions',
     href: '/server-action'
+  },
+  {
+    lable: 'API from Client',
+    href: '/api-from-client'
   }
 ]
 
